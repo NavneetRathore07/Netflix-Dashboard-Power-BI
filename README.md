@@ -51,24 +51,7 @@ The dataset used for this project is `netflix_titles.csv`, which contains inform
 - **Content Trends**: Shows trends in content release over the years.
 - **Rating Analysis**: Provides an overview of the content rating distribution on Netflix.
 
-## How to Run the Project
-
-1. **Download the Dataset**:
-   - Download the `netflix_titles.csv` file from the repository.
-   
-2. **Open the Power BI File**:
-   - Open the `Netflix Dashboard.pbix` file in Power BI Desktop.
-
-3. **Load the Data**:
-   - Ensure the dataset is correctly loaded into Power BI.
-   
-4. **Interact with the Dashboard**:
-   - Use the interactive features of the dashboard to explore the data.
-
 ## Conclusion
 
 This Power BI project provides a comprehensive analysis of Netflix shows and movies, offering valuable insights into the content available on the platform. The interactive dashboard allows users to explore the data and gain a deeper understanding of Netflix's offerings.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
